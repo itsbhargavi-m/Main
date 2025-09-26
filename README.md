@@ -18,5 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsbhargavi-m&show_icons=true&locale=en" alt="itsbhargavi-m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbhargavi-m&" alt="itsbhargavi-m" /></p>
-# Main
+# Bhargavi
 Hello world this my profile 
